@@ -1,25 +1,24 @@
-@media screen and (min-width: 546px){
-  div.issues{
-  text-align:center;
-  border:2px solid #ffe372;
-  padding:10px 17px; 
-  background:#ce1010;
-  width:545px;
-  border-radius:7px;
-  -moz-border-radius:7px; /* 老的 Firefox */
-  margin:4px;
-  }
-  div.solve{
-  text-align:center;
-  border:2px solid #ffe372;
-  padding:10px 17px; 
-  background:#42f760;
-  width:545px;
-  border-radius:7px;
-  -moz-border-radius:7px; /* 老的 Firefox */
-  margin:4px;
-  }
+div.issues{
+text-align:center;
+border:2px solid #ffe372;
+padding:10px 17px; 
+background:#ce1010;
+width:545px;
+border-radius:7px;
+-moz-border-radius:7px; /* 老的 Firefox */
+margin:4px;
 }
+div.solve{
+text-align:center;
+border:2px solid #ffe372;
+padding:10px 17px; 
+background:#42f760;
+width:545px;
+border-radius:7px;
+-moz-border-radius:7px; /* 老的 Firefox */
+margin:4px;
+}
+
 @media screen and (max-width: 545px){
   div.issues{
   text-align:center;
