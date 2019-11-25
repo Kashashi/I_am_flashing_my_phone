@@ -2,7 +2,10 @@ div.issues{
 text-align:center;
 border:2px solid #ffe372;
 padding:10px 17px; 
-background:#ce1010;
+background: -webkit-linear-gradient(90deg,#ff9999,#ce1010,#5e0505);
+background: -o-linear-gradient(90deg,#ff9999,#ce1010,#5e0505);
+background: -moz-linear-gradient(90deg,#ff9999,#ce1010,#5e0505);
+background: linear-gradient(90deg,#ff9999,#ce1010,#5e0505);
 width:545px;
 border-radius:7px;
 -moz-border-radius:7px; /* 老的 Firefox */
@@ -12,7 +15,10 @@ div.solve{
 text-align:center;
 border:2px solid #ffe372;
 padding:10px 17px; 
-background:#42f760;
+background: -webkit-linear-gradient(90deg,#c6ffcf,#42f760,#0bc72b);
+background: -o-linear-gradient(90deg,#c6ffcf,#42f760,#0bc72b);
+background: -moz-linear-gradient(90deg,#c6ffcf,#42f760,#0bc72b);
+background: linear-gradient(90deg,#c6ffcf,#42f760,#0bc72b);
 width:545px;
 border-radius:7px;
 -moz-border-radius:7px; /* 老的 Firefox */
@@ -28,4 +34,14 @@ border:1px red none;
 }
 a.lk_nav{
 font-size:30px
+}
+button{
+border:1.33px rgb(221, 254, 255) solid;
+width:120px;
+height:40px;
+font-size:20px;
+background: -webkit-linear-gradient(123deg,rgb(149, 138, 245),rgb(167, 33, 33));
+background: -o-linear-gradient(123deg,rgb(149, 138, 245),rgb(167, 33, 33));
+background: -moz-linear-gradient(123deg,rgb(149, 138, 245),rgb(167, 33, 33));
+background: linear-gradient(123deg,rgb(149, 138, 245),rgb(167, 33, 33));
 }
