@@ -24,6 +24,19 @@ border-radius:7px;
 -moz-border-radius:7px; /* 老的 Firefox */
 margin:4px;
 }
+div.none_solve{
+text-align:center;
+border:2px solid #ce1010;
+padding:10px 17px; 
+background: -webkit-linear-gradient(90deg,#FFF4C1,#FFE66F,#eacc5e);
+background: -o-linear-gradient(90deg,#FFF4C1,#FFE66F,#eacc5e);
+background: -moz-linear-gradient(90deg,#FFF4C1,#FFE66F,#eacc5e);
+background: linear-gradient(90deg,#FFF4C1,#FFE66F,#eacc5e);
+width:545px;
+border-radius:7px;
+-moz-border-radius:7px; /* 老的 Firefox */
+margin:4px;
+}
 nav{
 background-color:#eacc5e
 }
