@@ -37,6 +37,20 @@ border-radius:7px;
 -moz-border-radius:7px; /* 老的 Firefox */
 margin:4px;
 }
+div.hardware_damage{
+text-align:center;
+border:2px solid #4B0091;
+color:#FFFFFF;
+padding:10px 17px; 
+background: -webkit-linear-gradient(90deg,#5B5B5B,#4F4F4F,#272727);
+background: -o-linear-gradient(90deg,#5B5B5B,#4F4F4F,#272727);
+background: -moz-linear-gradient(90deg,#5B5B5B,#4F4F4F,#272727);
+background: linear-gradient(90deg,#5B5B5B,#4F4F4F,#272727);
+width:545px;
+border-radius:7px;
+-moz-border-radius:7px; /* 老的 Firefox */
+margin:4px;
+}
 nav{
 background-color:#eacc5e
 }
